@@ -36,3 +36,7 @@ During development, a .gitignore file is used to prevent unnecessary files like 
 This chat application is a great starting point for learning about real-time systems, WebSockets, and backend/frontend integration. It can be enhanced further by adding features like usernames, timestamps, persistent storage (e.g., MongoDB), user authentication, private chat rooms, or improved UI using CSS frameworks.
 
 In summary, this project successfully demonstrates the implementation of a real-time, multi-user chat interface using Socket.IO. It is simple, clean, and ideal for beginners who want to learn how full-stack applications work with real-time communication.
+
+##output
+
+![Image](https://github.com/user-attachments/assets/2b01ef4e-bec9-4e5e-9fdd-23e91eb0cd6f)
